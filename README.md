@@ -4,6 +4,7 @@
 
 **YourNextFilms** é um projeto com objetivo de fazer recomendações de filmes para seus usuários via Whatsapp Web então este programa também é um Bot que se integra com a API da TMDb (The Movie Database) para fazer as recomendações e tem sua interface gráfica desenvolvida para plataformas desktop em Flutter (Flet).
 
+![Imagem do Projeto](https://drive.google.com/uc?id=1p0AvXra2ywKkpl4ALGNlFl6NBxABCgpr)
 Link para download do executável: [YourNextFilms](https://drive.google.com/file/d/1KAjvzSWeMHIXWW0rPnj4njdspxKMG47d/view?usp=sharing)
 
 ### Tecnologias usadas:
